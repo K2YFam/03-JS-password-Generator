@@ -6,4 +6,4 @@
  You can find  the links below 
  [View the working website here!](https://k2yfam.github.io/03-JS-password-Generator/)
  
- ![portfolioScreenGrabV1](https://imgur.com/a/J90GhUc)
+ ![portfolioScreenGrabV1](https://imgur.com/a/J90GhUc/)
